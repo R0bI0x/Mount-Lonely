@@ -12,7 +12,7 @@ local isFarming = false
 local eventCount = 0
 
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "KemplongXDxMizu"
+ScreenGui.Name = "KemplongXD"
 ScreenGui.ResetOnSpawn = false
 ScreenGui.DisplayOrder = 99999
 
@@ -61,7 +61,7 @@ Title.BackgroundTransparency = 1
 Title.Position = UDim2.new(0.05, 0, 0, 5)
 Title.Size = UDim2.new(0.7, 0, 0, 30)
 Title.Font = Enum.Font.GothamBold
-Title.Text = "KemplongXD x Mizu"
+Title.Text = "KemplongXD"
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 Title.TextSize = 14
 Title.TextXAlignment = Enum.TextXAlignment.Left
